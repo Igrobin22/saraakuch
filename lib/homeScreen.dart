@@ -697,6 +697,7 @@ class HomeScreen extends StatelessWidget {
               //products grid start
               SizedBox(
               
+              
                 child: GridView.builder(
                   shrinkWrap: true,
                   itemCount: 10,
